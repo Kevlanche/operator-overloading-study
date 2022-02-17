@@ -1,0 +1,592 @@
+{
+  "Python": {
+    "youtube-dl": {
+      "url": "https://github.com/ytdl-org/youtube-dl",
+      "revision": "a8035827177d6b59aca03bd717acb6a9bdd75ada"
+    },
+    "The Fuck": {
+      "url": "https://github.com/nvbn/thefuck",
+      "revision": "cf1beb6b89cfcefb594f40a0d698da2b1ee94955"
+    },
+    "Django": {
+      "url": "https://github.com/django/django",
+      "revision": "604df4e0adc71da264f61fe85020a170c98e6f09"
+    },
+    "Transformers": {
+      "url": "https://github.com/huggingface/transformers",
+      "revision": "cb7ed6e083365226819cf4d9370c757d5fda1256"
+    },
+    "flask": {
+      "url": "https://github.com/pallets/flask",
+      "revision": "1cf43e08e3211e7ff21005dd778613e39b20a449"
+    },
+    "Keras": {
+      "url": "https://github.com/keras-team/keras",
+      "revision": "3b87e6c50be9cd8618aab5b154a72c20a6b97f9b"
+    },
+    "Ansible": {
+      "url": "https://github.com/ansible/ansible",
+      "revision": "d35bef68f5d5502d3718d7b9a260308686c1c981"
+    },
+    "Home Assistant": {
+      "url": "https://github.com/home-assistant/core",
+      "revision": "4cad29d7d4820fcaaec64cf361f040f80413005b"
+    },
+    "Scikit-learn": {
+      "url": "https://github.com/scikit-learn/scikit-learn",
+      "revision": "d1d60d2da1e8460a8458a866bd6223733484b114"
+    },
+    "requests": {
+      "url": "https://github.com/psf/requests",
+      "revision": "95f456733656ed93645ff0250bfa54f6d256f6fe"
+    }
+  },
+  "C++": {
+    "Chromium": {
+      "url": "https://source.chromium.org/chromium/chromium",
+      "revision": "0cd94c286f425dadca45538f7b6fe7f9a87cfb63"
+    },
+    "TensorFlow": {
+      "url": "https://github.com/tensorflow/tensorflow",
+      "revision": "232839bc075af34395901444d1aff3681d064f36"
+    },
+    "Electron": {
+      "url": "https://github.com/electron/electron",
+      "revision": "2526031a5f9def6f4d1e6d5713d71463b799d0de"
+    },
+    "terminal": {
+      "url": "https://github.com/microsoft/terminal",
+      "revision": "e064c1567548f098233b7a2d1101cb5201dec049"
+    },
+    "bitcoin": {
+      "url": "https://github.com/bitcoin/bitcoin",
+      "revision": "243a9c39250dee95b6fe62ac5ae2f8e3eafecf1b"
+    },
+    "OpenCV": {
+      "url": "https://github.com/opencv/opencv",
+      "revision": "d5ecb5ff5abc18fc50ab4d4432a4e88d5c1f8d8e"
+    },
+    "Swift": {
+      "url": "https://github.com/apple/swift",
+      "revision": "24674d102bb2c31a543a95fd0b1ae029eeba7d46"
+    },
+    "Pytorch": {
+      "url": "https://github.com/pytorch/pytorch",
+      "revision": "364055b2771ecf9b54f1d67a8bf44bb5496476d4"
+    },
+    "Protobuf": {
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "revision": "d5ef16c6eb6ee2f2a998926b702a6c54cc4f2f88"
+    },
+    "Godot": {
+      "url": "https://github.com/godotengine/godot",
+      "revision": "ba4c3dc65a3f22c710afd918b8e4d734247b1f91"
+    }
+  },
+  "C#": {
+    "PowerToys": {
+      "url": "https://github.com/microsoft/PowerToys",
+      "revision": "063beddb01dc475ca95a19a7ac347ef5caa5e47b"
+    },
+    "Shadowsocks Windows": {
+      "url": "https://github.com/shadowsocks/shadowsocks-windows",
+      "revision": "8fafef7c5751809751d8eef361e3c39caef75261"
+    },
+    "PowerShell": {
+      "url": "https://github.com/PowerShell/PowerShell",
+      "revision": "cfe45defc1ed87a7a7b916f154e56124d81a320b"
+    },
+    "ASP.NET core": {
+      "url": "https://github.com/dotnet/aspnetcore",
+      "revision": "3c89227f057003106c125d705354b4b5fd5b5aca"
+    },
+    "CodeHub": {
+      "url": "https://github.com/CodeHubApp/CodeHub",
+      "revision": "7c7df03cdee9f60de64a33b551d0fbc2ac9979d6"
+    },
+    "WoX": {
+      "url": "https://github.com/Wox-launcher/Wox",
+      "revision": "e3f41d504a99be09ea4bb535eece4b35919eb09c"
+    },
+    "Files": {
+      "url": "https://github.com/files-community/Files",
+      "revision": "bc2005e3568eccba6ca6731787748407ab97db28"
+    }
+  },
+  "Visual Basic": {
+    "TaskbarX": {
+      "url": "https://github.com/ChrisAnd1998/TaskbarX",
+      "revision": "57a9b5357fa517286e5b11a546dc86f75524a0fc"
+    },
+    "CompactGUI": {
+      "url": "https://github.com/ImminentFate/CompactGUI",
+      "revision": "01b578472470fdee3143e18cf8d92b702f54db68"
+    },
+    "VBA-Web": {
+      "url": "https://github.com/VBA-tools/VBA-Web",
+      "revision": "9dbcc751d177099f20c96c5ee332ec10ef47423c"
+    },
+    "SharpShooter": {
+      "url": "https://github.com/mdsecactivebreach/SharpShooter",
+      "revision": "9aea0b7a723b61c01c21f1e4b55409edf39a5a3b"
+    },
+    "VBA-JSON": {
+      "url": "https://github.com/VBA-tools/VBA-JSON",
+      "revision": "06b6c45a2e8086a7a761f00bead7460852d6b602"
+    }
+  },
+  "PHP": {
+    "Laravel": {
+      "url": "https://github.com/laravel/laravel",
+      "revision": "196a27593b288f7e4d3ce30585ebd881933726b4"
+    },
+    "SecLists": {
+      "url": "https://github.com/danielmiessler/SecLists",
+      "revision": "168584fdc61b44080342291611238585648f08a8"
+    },
+    "jQuery File Upload": {
+      "url": "https://github.com/blueimp/jQuery-File-Upload",
+      "revision": "0e92a4d4613d4ed5231ee0d8513519f2e04f99ba"
+    },
+    "Symfony": {
+      "url": "https://github.com/symfony/symfony",
+      "revision": "7a41b0545ea19f5f17e749d0da9633b7f1950b87"
+    },
+    "Faker": {
+      "url": "https://github.com/fzaninotto/Faker",
+      "revision": "5ffe7db6c80f441f150fc88008d64e64af66634b"
+    },
+    "Composer": {
+      "url": "https://github.com/composer/composer",
+      "revision": "cb1e2482580beaf3e511278dd629ded599cddc1f"
+    },
+    "Guzzle": {
+      "url": "https://github.com/guzzle/guzzle",
+      "revision": "7ec2e2a6653521433fd759f6f800ab1bb463ab6c"
+    },
+    "Monolog": {
+      "url": "https://github.com/Seldaek/monolog",
+      "revision": "fb2c324c17941ffe805aa7c953895af96840d0c9"
+    },
+    "Nextcloud": {
+      "url": "https://github.com/nextcloud/server",
+      "revision": "fbf260f39a85470d794cf8033d6abd8bd082bf95"
+    }
+  },
+  "Groovy": {
+    "Gradle": {
+      "url": "https://github.com/gradle/gradle",
+      "revision": "da1ba43f59958ee141e69cc03fb2e5a16441e0a4"
+    },
+    "Rundeck": {
+      "url": "https://github.com/rundeck/rundeck",
+      "revision": "f0a4a73e4c6a123f6f73f757d3189d78a5428a2d"
+    },
+    "AspectJX": {
+      "url": "https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx",
+      "revision": "07f0fcebdfc676bd280bc2ada8e921fa82aef33f"
+    },
+    "Gradle Versions Plugin": {
+      "url": "https://github.com/ben-manes/gradle-versions-plugin",
+      "revision": "b53e44f1459e7950706e77007b916ee522684baf"
+    },
+    "Shadow": {
+      "url": "https://github.com/johnrengelman/shadow",
+      "revision": "44bf43a0e338eef345d8a1b2fbbec768e67c051d"
+    }
+  },
+  "Ruby": {
+    "Rails": {
+      "url": "https://github.com/rails/rails",
+      "revision": "25418676cd36d5b4f87a55178f53b80f2fdcf900"
+    },
+    "Jekyll": {
+      "url": "https://github.com/jekyll/jekyll",
+      "revision": "10a73596d94c3138eba1a330b52864efecf08a05"
+    },
+    "Discourse": {
+      "url": "https://github.com/discourse/discourse",
+      "revision": "89a2cec7bef2321a4f633f900b2b240dd91113ce"
+    },
+    "Huginn": {
+      "url": "https://github.com/huginn/huginn",
+      "revision": "b06f77d1d78b08a82b9ca381702506403f35eb58"
+    },
+    "Fastlane": {
+      "url": "https://github.com/fastlane/fastlane",
+      "revision": "d68d2aac2f1496776aab168c94342ab109bd086d"
+    },
+    "Brew": {
+      "url": "https://github.com/Homebrew/brew",
+      "revision": "eca16a2a3974c5e6cb6b65ac90a55613f2d0cbb4"
+    }
+  },
+  "Swift": {
+    "Alamofire": {
+      "url": "https://github.com/Alamofire/Alamofire",
+      "revision": "65b77694905b0dea7e419b2f74b1e5dc037094b5"
+    },
+    "Shadowsocksx Ng": {
+      "url": "https://github.com/shadowsocks/ShadowsocksX-NG",
+      "revision": "0e0e5126d184e39efe2f027e62f7f0129b0871f8"
+    },
+    "IINA": {
+      "url": "https://github.com/iina/iina",
+      "revision": "5439e53e88acef0d71cfee953ef2a51bdd75047f"
+    },
+    "Charts": {
+      "url": "https://github.com/danielgindi/Charts",
+      "revision": "e91ba716190836b013ef8a9ca53e220ad5051e21"
+    },
+    "Lottie": {
+      "url": "https://github.com/airbnb/lottie-ios",
+      "revision": "e9c52fa3e2f962febb6fcc27a94eff15292130b2"
+    },
+    "Vapor": {
+      "url": "https://github.com/vapor/vapor",
+      "revision": "c7b4d3f9705645d184a464e191cdb49ca3a48de9"
+    },
+    "ReactiveX": {
+      "url": "https://github.com/ReactiveX/RxSwift",
+      "revision": "b48f2e9536cd985d912126709b97bd743e58c8fc"
+    },
+    "Swiftyjson": {
+      "url": "https://github.com/SwiftyJSON/SwiftyJSON",
+      "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07"
+    },
+    "Hero": {
+      "url": "https://github.com/HeroTransitions/Hero",
+      "revision": "15e78a223f5176cc6f3eefffb6cd62f3a42a9ec4"
+    },
+    "ReactiveCocoa": {
+      "url": "https://github.com/ReactiveCocoa/ReactiveCocoa",
+      "revision": "8a5b07b18c6abb8e12fb845bf742675dc4914ed8"
+    }
+  },
+  "Matlab": {
+    "Deep photo style transfer": {
+      "url": "https://github.com/luanfujun/deep-photo-styletransfer",
+      "revision": "4801fa2dca2e2b52847c377f451246a39eae154a"
+    },
+    "OpenFace": {
+      "url": "https://github.com/TadasBaltrusaitis/OpenFace",
+      "revision": "3d4b5cf8d96138be42bed229447f36cbb09a5a29"
+    },
+    "VRN (Volumetric regession network)": {
+      "url": "https://github.com/AaronJackson/vrn",
+      "revision": "ea5184770216e7c6f7ec2a1e1ccb0a17b5ecc4e6"
+    },
+    "DeepLearnToolbox": {
+      "url": "https://github.com/rasmusbergpalm/DeepLearnToolbox",
+      "revision": "5df2801f2196a2afddb7a87f800e63e153c34995"
+    },
+    "MTCNN face detection alignment": {
+      "url": "https://github.com/kpzhang93/MTCNN_face_detection_alignment",
+      "revision": "58e8adb0c6aa3dcdde7b09ebc414f22b8c88e18a"
+    },
+    "Faster R-CNN": {
+      "url": "https://github.com/ShaoqingRen/faster_rcnn",
+      "revision": "49ad0990512a5d6e34f56e3c6596eb5fbf22f651"
+    }
+  },
+  "Fortran": {
+    "OpenBLAS": {
+      "url": "https://github.com/xianyi/OpenBLAS",
+      "revision": "ec4daf420fad31347401df52ad72b9cf625fc3ac"
+    },
+    "LAPACK": {
+      "url": "https://github.com/Reference-LAPACK/lapack",
+      "revision": "a066b6a08f23186f2f38f1d9167f6616528ad89f"
+    },
+    "PyMC2": {
+      "url": "https://github.com/pymc-devs/pymc2",
+      "revision": "6b1b51ddea1a74c50d9a027741252b30810b29e0"
+    },
+    "Fortran io": {
+      "url": "https://github.com/mapmeld/fortran-machine",
+      "revision": "5e5e6bbdab353149047971a3f872238a2a4b716e"
+    },
+    "WRF": {
+      "url": "https://github.com/wrf-model/WRF",
+      "revision": "4ab0bb54c62a229accf7d3e6e8c6bb7007c4adb5"
+    },
+    "Netlib-java": {
+      "url": "https://github.com/fommil/netlib-java",
+      "revision": "52b3a8beb23ee98d26eb66fa67d904c704e01e45"
+    },
+    "Elmer FEM": {
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "revision": "6ab20a47dfe2bf42b41a8a0ba22f411e652f4bfa"
+    },
+    "stdlib": {
+      "url": "https://github.com/fortran-lang/stdlib",
+      "revision": "57cfaf011ee11001b35bbdde43841a5a1f8cf443"
+    }
+  },
+  "R": {
+    "ggplot2": {
+      "url": "https://github.com/tidyverse/ggplot2",
+      "revision": "199eb90981f6331e51f373bae2ba2b8269128091"
+    },
+    "shiny": {
+      "url": "https://github.com/rstudio/shiny",
+      "revision": "6a7ffeff68b77ab3eb513357a925596e5a8cd696"
+    },
+    "dplyr": {
+      "url": "https://github.com/tidyverse/dplyr",
+      "revision": "0189058d6527ea288f3ec7b6c0dfcc1c5ee30bbe"
+    },
+    "AnomalyDetection": {
+      "url": "https://github.com/twitter/AnomalyDetection",
+      "revision": "1f5deaa1609f8f1964c1e905c7a8ad2d1d0dc718"
+    },
+    "data.table": {
+      "url": "https://github.com/Rdatatable/data.table",
+      "revision": "d8dc315eb66bc29c49ac0344550f976d16b153ee"
+    },
+    "rmarkdown": {
+      "url": "https://github.com/rstudio/rmarkdown",
+      "revision": "69e6f983fdd9fca18284509eb6fed8fc4c0fc3f7"
+    },
+    "devtools": {
+      "url": "https://github.com/r-lib/devtools",
+      "revision": "37fd5d8d3eda3b1a5911c49255bac35094c5a446"
+    },
+    "kniitr": {
+      "url": "https://github.com/yihui/knitr",
+      "revision": "931a3a341c9bc7c22c36bd0b1bc1c95b0de78b32"
+    }
+  },
+  "Perl": {
+    "Diff So Fancy": {
+      "url": "https://github.com/so-fancy/diff-so-fancy",
+      "revision": "c3205c8a2633a311110fa8609f97b22388298ac8"
+    },
+    "Cloc": {
+      "url": "https://github.com/AlDanial/cloc",
+      "revision": "14d7c6bbca21a5e441b9c2d76c2d3fe81c22ef58"
+    },
+    "Flamegraph": {
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "revision": "810687f180f3c4929b5d965f54817a5218c9d89b"
+    },
+    "Gitolite": {
+      "url": "https://github.com/sitaramc/gitolite",
+      "revision": "828152dc7f3ad421ff1eb50aeb982be664c95039"
+    },
+    "MySQLTuner": {
+      "url": "https://github.com/major/MySQLTuner-perl",
+      "revision": "c1661f326e2db394c8831f79b68f8b3f94f65fed"
+    },
+    "Nikto": {
+      "url": "https://github.com/sullo/nikto",
+      "revision": "7280b66b330809f0d99de3ef2bc017f2bce52b40"
+    },
+    "Expose": {
+      "url": "https://github.com/Jack000/Expose",
+      "revision": "257d6b1bf39493e65a3b955fca50231516495875"
+    },
+    "Git-it": {
+      "url": "https://github.com/jlord/git-it-electron",
+      "revision": "25a3ca931c0c11b1abab1ba6fe259892a87f1f52"
+    },
+    "rcm": {
+      "url": "https://github.com/thoughtbot/rcm",
+      "revision": "729903d084e5cc80b912739a9a167b34b3d56c87"
+    },
+    "pgBadger": {
+      "url": "https://github.com/darold/pgbadger",
+      "revision": "cdffbecb13d87cd6ce334e5ac752a969f968eedb"
+    }
+  },
+  "Delphi/Object Pascal": {
+    "rdpwrap": {
+      "url": "https://github.com/stascorp/rdpwrap",
+      "revision": "a5c64a43319e4e375b391ad42c41504bcb349b4a"
+    },
+    "Cheat Engine": {
+      "url": "https://github.com/cheat-engine/cheat-engine",
+      "revision": "df624983270a9eb9e441a200942d268b71cc2071"
+    },
+    "HeidiSQL": {
+      "url": "https://github.com/HeidiSQL/HeidiSQL",
+      "revision": "a228359c90ead30cdee969467aaead2a75a5f0b5"
+    },
+    "Inno Setup": {
+      "url": "https://github.com/jrsoftware/issrc",
+      "revision": "15db6745cd5480d06710a287afbf0ba8d45f6034"
+    },
+    "Transmission Remote GUI": {
+      "url": "https://github.com/transmission-remote-gui/transgui",
+      "revision": "e73b1ce1c8fcca1642c58507e211369f731989c5"
+    },
+    "NodeMCU Flasher": {
+      "url": "https://github.com/nodemcu/nodemcu-flasher",
+      "revision": "d929c5171545d10c4849d6493d2504ea0983fd19"
+    },
+    "Embarcadero Dev-C++": {
+      "url": "https://github.com/Embarcadero/Dev-Cpp",
+      "revision": "1fcf06ba88e35207d4ef055f8cfd36364a522554"
+    },
+    "PeaZip": {
+      "url": "https://github.com/peazip/PeaZip",
+      "revision": "9859eeb9f83b633b2ea0dd58dfe8d04b3de98b6b"
+    },
+    "Soldat": {
+      "url": "https://github.com/Soldat/soldat",
+      "revision": "7780d2948b724970af9f2aaf4fb4e4350d5438d9"
+    }
+  },
+  "Rust": {
+    "Deno": {
+      "url": "https://github.com/denoland/deno",
+      "revision": "f1d3a170430501b4fab1a2d2abb5d77528251c77"
+    },
+    "rust": {
+      "url": "https://github.com/rust-lang/rust",
+      "revision": "56cd04af5c389b6ab676ba16f59d9f70bc465090"
+    },
+    "Alactritty": {
+      "url": "https://github.com/alacritty/alacritty",
+      "revision": "ec4dc32688cfc71686c24a4edc59fd7427a6bf33"
+    },
+    "Bat": {
+      "url": "https://github.com/sharkdp/bat",
+      "revision": "554374667e928e908393a4e6f21254af260b9eed"
+    },
+    "Tauri": {
+      "url": "https://github.com/tauri-apps/tauri",
+      "revision": "53fdfe52bb30d52653c72ca9f42506c3863dcf4a"
+    },
+    "Ripgrep": {
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "revision": "9b01a8f9ae53ebcd05c27ec21843758c2c1e823f"
+    },
+    "Starship": {
+      "url": "https://github.com/starship/starship",
+      "revision": "465e6fc4be64bf830d2c98bc3f56c2601acef775"
+    }
+  },
+  "Kotlin": {
+    "OkHttp": {
+      "url": "https://github.com/square/okhttp",
+      "revision": "3417fd0e7889f411b98f71a5fa9db39ef777636d"
+    },
+    "Kotlin": {
+      "url": "https://github.com/JetBrains/kotlin",
+      "revision": "88f41d006aed860a038244842dcc834c83e2fa16"
+    },
+    "Shadowsocks Android": {
+      "url": "https://github.com/shadowsocks/shadowsocks-android",
+      "revision": "d835837782f0152c8286e9773553fb8203dfd263"
+    },
+    "LeakCanary": {
+      "url": "https://github.com/square/leakcanary",
+      "revision": "2138d5198cc5d641e1ac5d00f2ff747c59c3ec59"
+    },
+    "Google I/O Android App": {
+      "url": "https://github.com/google/iosched",
+      "revision": "6f96c1528c00d3d89bedb33e5a0a10d67629e8bd"
+    },
+    "Material Dialogs": {
+      "url": "https://github.com/afollestad/material-dialogs",
+      "revision": "709cfee9b45257af7ab4c428e4850bee38a075e7"
+    },
+    "FlexboxLayout": {
+      "url": "https://github.com/google/flexbox-layout",
+      "revision": "366b461fd0425bfaa9872b1d9af9da3055d3bc74"
+    },
+    "Anko": {
+      "url": "https://github.com/Kotlin/anko",
+      "revision": "37893764c0f20208c842a466f0fd0159c1e247e2"
+    },
+    "Tachiyomi": {
+      "url": "https://github.com/tachiyomiorg/tachiyomi",
+      "revision": "a131e28b6074a83e22901e17dc3aee8106773261"
+    }
+  },
+  "Scala": {
+    "Apache Spark": {
+      "url": "https://github.com/apache/spark",
+      "revision": "f6e2e6515c96fb7a83b72613aa81b549fd606fcb"
+    },
+    "Prisma": {
+      "url": "https://github.com/prisma/prisma1",
+      "revision": "8d92e4257b914ceca85080111957644710c5fb84"
+    },
+    "Scala": {
+      "url": "https://github.com/scala/scala",
+      "revision": "b2da0eaa2c64bef422c8d4865dcf5ee5efabda56"
+    },
+    "PredictionIO": {
+      "url": "https://github.com/apache/predictionio",
+      "revision": "d9628ca2f148b45a51bf4cea68699a72f25cb383"
+    },
+    "Play Framework": {
+      "url": "https://github.com/playframework/playframework",
+      "revision": "f75bb94ebd5b860a0dd57006ffb21a3f7aa7b5ab"
+    },
+    "Akka": {
+      "url": "https://github.com/akka/akka",
+      "revision": "6c9c7338962cba5af98620742c4b4596d67b0b9e"
+    },
+    "Lichess": {
+      "url": "https://github.com/ornicar/lila",
+      "revision": "ade209e13cec2f4fdb5db40d59545cf4fdcc6be1"
+    },
+    "CMAK": {
+      "url": "https://github.com/yahoo/CMAK",
+      "revision": "c1868b6d08c24f6be0015c3937f59219b30199b2"
+    },
+    "GitBucket": {
+      "url": "https://github.com/gitbucket/gitbucket",
+      "revision": "e7192655f7f1beeff78c4252decd171a3b7089ab"
+    },
+    "BFG Repo-Cleaner": {
+      "url": "https://github.com/rtyley/bfg-repo-cleaner",
+      "revision": "e7cdc464bb5e996944642d4201b171304de3a68f"
+    }
+  },
+  "Haskell": {
+    "ShellCheck": {
+      "url": "https://github.com/koalaman/shellcheck",
+      "revision": "dd626686c420568752202646e254d51a107e5b95"
+    },
+    "Hasura GraphQL Engine": {
+      "url": "https://github.com/hasura/graphql-engine",
+      "revision": "291de841798ba8ade3032df04b21e1597d6d4b86"
+    },
+    "Pandoc": {
+      "url": "https://github.com/jgm/pandoc",
+      "revision": "6303952623d7a9fe2c5e9f618abd812d48ca3fcd"
+    },
+    "PostgREST": {
+      "url": "https://github.com/PostgREST/postgrest",
+      "revision": "c86e254a24361e8cdaaefba08ba6eb6a4b5e15ce"
+    },
+    "Semantic": {
+      "url": "https://github.com/github/semantic",
+      "revision": "e4281d57f7486821bcc9c2f6d51dc3908bc523f5"
+    },
+    "Purescript": {
+      "url": "https://github.com/purescript/purescript",
+      "revision": "18e3b14c556c5bd58e391531e4f4e511f834c3ff"
+    },
+    "Elm": {
+      "url": "https://github.com/elm/compiler",
+      "revision": "39949053f9469862b17006e3965f3b440414d13c"
+    },
+    "Haskell Dockerfile Linter": {
+      "url": "https://github.com/hadolint/hadolint",
+      "revision": "43d2bfe9f71dea9ddd203d5bdbd2cc1fb512e4dd"
+    },
+    "Carp": {
+      "url": "https://github.com/carp-lang/Carp",
+      "revision": "1175bb795b8147cb0b6f3b3b5426ad19ce3616da"
+    },
+    "Unison": {
+      "url": "https://github.com/unisonweb/unison",
+      "revision": "25ca3816757dcfa700e9834dd11428f69811a156"
+    }
+  }
+}

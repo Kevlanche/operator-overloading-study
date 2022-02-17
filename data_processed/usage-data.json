@@ -1,0 +1,34 @@
+{
+  "usage-lang": {
+    "C++": 80,
+    "Ruby": 78,
+    "Haskell": 60,
+    "Python": 57,
+    "Groovy": 53,
+    "Kotlin": 50,
+    "Swift": 48,
+    "C#": 43,
+    "Scala": 42,
+    "PHP": 39,
+    "Rust": 39,
+    "R": 23,
+    "Fortran": 21,
+    "Delphi/Object Pascal": 11,
+    "Visual Basic": 0,
+    "Matlab": 0,
+    "Perl": 0
+  },
+  "usage-feature": {
+    "Arithmetic": 33,
+    "CompoundAssignment": 32,
+    "Comparison": 48,
+    "LogicalAndOr": 13,
+    "ArrayIndexing": 54,
+    "ArbitraryPropAccess": 43,
+    "ReverseArithmetic": 20
+  },
+  "meta": {
+    "Num languages": 17,
+    "Num projects": 139
+  }
+}
