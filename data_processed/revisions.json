@@ -272,7 +272,7 @@
       "url": "https://github.com/TadasBaltrusaitis/OpenFace",
       "revision": "3d4b5cf8d96138be42bed229447f36cbb09a5a29"
     },
-    "VRN (Volumetric regession network)": {
+    "VRN": {
       "url": "https://github.com/AaronJackson/vrn",
       "revision": "ea5184770216e7c6f7ec2a1e1ccb0a17b5ecc4e6"
     },
@@ -280,7 +280,7 @@
       "url": "https://github.com/rasmusbergpalm/DeepLearnToolbox",
       "revision": "5df2801f2196a2afddb7a87f800e63e153c34995"
     },
-    "MTCNN face detection alignment": {
+    "MTCNN": {
       "url": "https://github.com/kpzhang93/MTCNN_face_detection_alignment",
       "revision": "58e8adb0c6aa3dcdde7b09ebc414f22b8c88e18a"
     },
