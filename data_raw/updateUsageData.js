@@ -11,6 +11,7 @@ const printSection = (id, header, sectionData) => {
   })
 }
 
+printSection('presence-lang', 'Presence by lang', require('./calcFeaturePresence')());
 printSection('usage-lang', 'Usage by lang', require('./calcLangUsages')());
 printSection('usage-feature', 'Feature usages', require('./calcFeatureUsages')());
 printSection('meta', 'Meta info', [

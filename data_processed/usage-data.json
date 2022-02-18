@@ -1,4 +1,13 @@
 {
+  "presence-lang": {
+    "Arithmetic": 94,
+    "CompoundAssignment": 50,
+    "Comparison": 88,
+    "LogicalAndOr": 29,
+    "ArrayIndexing": 76,
+    "ArbitraryPropAccess": 29,
+    "ReverseArithmetic": 12
+  },
   "usage-lang": {
     "C++": 80,
     "Ruby": 78,

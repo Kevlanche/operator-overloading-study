@@ -71,7 +71,6 @@ function readDataFile() {
         console.log('Bad data for', langBuilder.lang, '->', project, ', url missing or badly formatted');
         throw new Error('Bad data');
       }
-      // console.log('Entry ::', project, '->', parts[14]);
       langBuilder.entries[project] = ({ usages, url });
       return ParseState.LANG_DATA;
     }
